@@ -51,10 +51,10 @@ Usage
 
 1. Clone the repository.
 
-2. Set up the database using the provided .sql file.
+2. Set up the database file.
 
 3. Configure database credentials in the project settings.
 
-4. Run the application using Python.
+4. Run the application using VScode.
 
 5. Login as admin or teacher to begin managing school operations.
