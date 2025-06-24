@@ -1,6 +1,6 @@
-School Management System
+College Management System
 
-The School Management System is a comprehensive, user-friendly application designed to automate and streamline the day-to-day administrative tasks of schools and educational institutions. It supports efficient management of student data, staff records, fee transactions, attendance tracking, and academic performance — all from a centralized platform.
+The College Management System is a comprehensive, user-friendly application designed to automate and streamline the day-to-day administrative tasks of colleges and educational institutions. It supports efficient management of student data, staff records, fee transactions, attendance tracking, and academic performance — all from a centralized platform.
 
 Key Features
 Student Management – Add, update, and manage student details, class assignments, and performance records.
